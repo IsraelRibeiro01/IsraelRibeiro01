@@ -9,16 +9,16 @@
 * 🧑‍🎨 Certified Designer
 * 💽 **I love music!**
 
-![](https://badges.lastfm.workers.dev/last-played?user=Celestial42&style=for-the-badge)
+![](https://badges.lastfm.workers.dev/last-played?user=Celestial42&style=for-the-badge) [![](https://custom-icon-badges.demolab.com/badge/-My%20Repos-blue?style=for-the-badge&logoColor=white&logo=repo)](https://github.com/IsraelRibeiro01?tab=repositories)
+
+<br>
 
 <!-- lastfm -->
 
----
-
-[![](https://custom-icon-badges.demolab.com/badge/-My%20Repos-blue?style=for-the-badge&logoColor=white&logo=repo)](https://github.com/IsraelRibeiro01?tab=repositories)
+<br>
 
 
----
+### Tools 
 
 <br />
 
@@ -182,6 +182,7 @@
 <p align="left"> <a href="https://www.behance.com/luwiblu" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/behance-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/behance.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/behance.svg" width="32" height="32" alt="Behance" title="Behance" /> </picture> </a> <a href="https://www.github.com/IsraelRibeiro01" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="Github" title="Github" /> </picture> </a></p>
 
 ---
+### Stats
 
 <br />
 
