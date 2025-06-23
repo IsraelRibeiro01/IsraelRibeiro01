@@ -11,6 +11,8 @@
 
 ![](https://badges.lastfm.workers.dev/last-played?user=Celestial42&style=for-the-badge) [![](https://custom-icon-badges.demolab.com/badge/-My%20Repos-blue?style=for-the-badge&logoColor=white&logo=repo)](https://github.com/IsraelRibeiro01?tab=repositories)
 
+* ###  My recent top 15 Albuns from LastFM with [this awesome project](https://github.com/melipass/lastfm-to-markdown/)
+
 <br>
 
 <!-- lastfm -->
