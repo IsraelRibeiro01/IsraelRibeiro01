@@ -2,6 +2,8 @@
 
 ---
 
+<img width="330" height="91" alt="logoisrael(1)" src="https://github.com/user-attachments/assets/5e22aaa0-211d-43f6-a08a-7a1dd7265c4b" />
+
 * 🌎 Based in Brasil 🇧🇷
 * 🧑‍💻 [Visual Artist](https://www.behance.net/luwiblu) and Dev
 * 🎧 Audio fidelity nerd
