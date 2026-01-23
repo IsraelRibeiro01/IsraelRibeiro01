@@ -6,13 +6,13 @@
 
 * 🌎 Based in Brasil 🇧🇷
 * 🧑‍💻 [Visual Artist](https://www.behance.net/luwiblu) and Dev
-* ❄️ [NixOS](https://github.com/IsraelRibeiro01/nixos) User
+* ❄️ [NixOS](https://github.com/IsraelRibeiro01/nix_os) User
 * 🎧 Audio fidelity nerd
 * 🖥️ Studing Computer Networks
 * 🧑‍🎨 Certified Designer
 * 💽 **I love music!**
 
-[![NIXOS](https://img.shields.io/badge/NIXOS-5277C3.svg?style=for-the-badge&logo=NixOS&logoColor=white)](https://github.com/IsraelRibeiro01/nixos)[![](https://custom-icon-badges.demolab.com/badge/-My%20Repos-blue?style=for-the-badge&logoColor=white&logo=repo)](https://github.com/IsraelRibeiro01?tab=repositories)[![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge)](https://github.com/Meon-Software/meonOS-arch-repo)
+[![NIXOS](https://img.shields.io/badge/NIXOS-5277C3.svg?style=for-the-badge&logo=NixOS&logoColor=white)](https://github.com/IsraelRibeiro01/nix_os)[![](https://custom-icon-badges.demolab.com/badge/-My%20Repos-blue?style=for-the-badge&logoColor=white&logo=repo)](https://github.com/IsraelRibeiro01?tab=repositories)[![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge)](https://github.com/Meon-Software/meonOS-arch-repo)
 
 ![](https://github-readme-lastfm-stats.netlify.app/.netlify/functions/card?user=Celestial42&theme=dark&show_scrobbles=fa)
 
