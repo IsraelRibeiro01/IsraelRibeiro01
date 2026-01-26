@@ -1,4 +1,3 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&duration=1400&pause=700&width=435&lines=+Israel+Ribeiro;Luwiblu;MEON+Software;MEON+Studio)](https://git.io/typing-svg)
 
 ---
 
