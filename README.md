@@ -6,6 +6,7 @@
 * 🌎 Based in Brasil 🇧🇷
 * 🧑‍💻 [Visual Artist](https://www.behance.net/luwiblu) and Dev
 * ❄️ [NixOS](https://github.com/IsraelRibeiro01/nix_os) User
+* 🟦 Arch Linux User
 * 🎧 Audio fidelity nerd
 * 🖥️ Studing Computer Networks
 * 🧑‍🎨 Certified Designer
