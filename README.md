@@ -3,7 +3,7 @@
 
 <img width="330" height="91" alt="logoisrael(1)" src="https://github.com/user-attachments/assets/5e22aaa0-211d-43f6-a08a-7a1dd7265c4b" />
 
-* 🌎 Based in Brasil 🇧🇷
+* 🌎 Made in Brasil 🇧🇷
 * 🧑‍💻 [Visual Artist](https://www.behance.net/luwiblu) and Dev
 * ❄️ [NixOS](https://github.com/IsraelRibeiro01/nix_os) User
 * 🟦 Arch Linux User
@@ -24,137 +24,64 @@
 <p align="center"><a href="https://www.last.fm/music/LE+SSERAFIM/Celebration"><img src="https://lastfm.freetls.fastly.net/i/u/64s/b876aa26f6c6aca34b312ce0c6253221.jpg" title="LE SSERAFIM - Celebration"></a> <a href="https://www.last.fm/music/Geoff+Castellucci/Big+Bad+John"><img src="https://lastfm.freetls.fastly.net/i/u/64s/11300717b192a7085baf7702f9e29c1c.jpg" title="Geoff Castellucci - Big Bad John"></a> <a href="https://www.last.fm/music/KSLV+Noh/Pilgrimage"><img src="https://lastfm.freetls.fastly.net/i/u/64s/ac1f33493983fe175d98541ce8450cf9.jpg" title="KSLV Noh - Pilgrimage"></a> <a href="https://www.last.fm/music/Sandy+Lam/%E6%88%91%E6%84%9B%E7%B6%93%E5%85%B8%E7%B3%BB%E5%88%97"><img src="https://lastfm.freetls.fastly.net/i/u/64s/dbab2ab8cccfbec0d50a99f1d38ee917.jpg" title="Sandy Lam - 我愛經典系列"></a> <a href="https://www.last.fm/music/desert+sand+feels+warm+at+night/New+World+Disciples"><img src="https://lastfm.freetls.fastly.net/i/u/64s/6b2cdd2f6a98176360dbde6469d92226.jpg" title="desert sand feels warm at night - New World Disciples"></a> <a href="https://www.last.fm/music/Aphex+Twin/Syro"><img src="https://lastfm.freetls.fastly.net/i/u/64s/0ba9499ca1506f4e112524e822fa4193.jpg" title="Aphex Twin - Syro"></a> <a href="https://www.last.fm/music/ARTMS/%3CClub+Icarus%3E"><img src="https://lastfm.freetls.fastly.net/i/u/64s/37dbd87d4918b9198eb38a7cafa091d9.jpg" title="ARTMS - <Club Icarus>"></a> <a href="https://www.last.fm/music/desert+sand+feels+warm+at+night/%E5%A4%A2%E2%80%8B%E3%81%AE%E2%80%8B%E7%A0%82%E2%80%8B%E6%BC%A0"><img src="https://lastfm.freetls.fastly.net/i/u/64s/fabc433f2cfabf1668f297e468210040.jpg" title="desert sand feels warm at night - 夢​の​砂​漠"></a> <a href="https://www.last.fm/music/JVM+Roses+Blood+Symphony/%E5%8D%94%E5%A5%8F%E6%9B%B2+%E3%80%9C%E8%80%BD%E7%BE%8E%E3%81%AA%E3%82%8B%E8%A1%80%E7%B5%B1%E3%80%9C"><img src="https://lastfm.freetls.fastly.net/i/u/64s/523f0415221dc5d0b20be3a36a2d6823.jpg" title="JVM Roses Blood Symphony - 協奏曲 〜耽美なる血統〜"></a> <a href="https://www.last.fm/music/Psychic+%E6%81%8B%E4%BA%BA/Airlines+1:+%E7%99%BA%E9%80%B2"><img src="https://lastfm.freetls.fastly.net/i/u/64s/6dd805abc8fb6df20eb135fe7907574a.png" title="Psychic 恋人 - Airlines 1: 発進"></a> <a href="https://www.last.fm/music/Yena/LOVE+CATCHER"><img src="https://lastfm.freetls.fastly.net/i/u/64s/8fe582c34792af33c5bf8579b1387a47.jpg" title="Yena - LOVE CATCHER"></a> <a href="https://www.last.fm/music/desert+sand+feels+warm+at+night/Perli+tal-Passat"><img src="https://lastfm.freetls.fastly.net/i/u/64s/7284d16af24ab2fa91503c9c95f121db.jpg" title="desert sand feels warm at night - Perli tal-Passat"></a> <a href="https://www.last.fm/music/Schr%C3%B6dinger%27s+Dog/ALTAIR-VEGA,+You+&+Me"><img src="https://lastfm.freetls.fastly.net/i/u/64s/c9a2bb93e1870f5edd4881a771597b1f.png" title="Schrödinger's Dog - ALTAIR-VEGA, You & Me"></a> <a href="https://www.last.fm/music/Versailles/The+Greatest+Hits+2007-2016"><img src="https://lastfm.freetls.fastly.net/i/u/64s/53ec5e337b970a46de7b8a98244f711f.jpg" title="Versailles - The Greatest Hits 2007-2016"></a> <a href="https://www.last.fm/music/Azure/galaxy"><img src="https://lastfm.freetls.fastly.net/i/u/64s/86fdd37460ec94b2e52205ee4863c25e.jpg" title="Azure - galaxy"></a> </p>
 <br>
 
-## 🛠️ Tools I Use
+---
 
-<details>
-  <summary><b>🧰 My Toolbox </b></summary>
+## 🚀 Projetos em Destaque
 
-  <br/>
-
-### 💻 Programming Languages
-
-<p align="left">
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" />
+<p align="center">
+  <a href="https://github.com/Meon-Software/KNodeJS">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Meon-Software&repo=KNodeJS&theme=dark" />
   </a>
-  <a href="https://www.typescriptlang.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" />
+  <p align="center">
+  <a href="https://github.com/IsraelRibeiro01/knodeFront">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=IsraelRibeiro01&repo=knodeFront&theme=dark" />
   </a>
-  <a href="https://www.gnu.org/software/bash/" target="_blank">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/gnubash.svg" width="36" height="36" alt="GNU Bash" />
+  
+  <a href="https://github.com/IsraelRibeiro01/nix_os">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=IsraelRibeiro01&repo=nix_os&theme=dark" />
   </a>
 </p>
-
-### 🎨 Design
-
-<p align="left">
-  <a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" />
-  </a>
-  <a href="https://www.adobe.com/uk/products/illustrator.html" target="_blank">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/illustrator-colored.svg" width="36" height="36" alt="Illustrator" />
-  </a>
-  <a href="https://www.adobe.com/uk/products/aftereffects.html" target="_blank">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aftereffects-colored.svg" width="36" height="36" alt="After Effects" />
-  </a>
-  <a href="https://www.adobe.com/uk/products/premiere.html" target="_blank">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/premierepro-colored.svg" width="36" height="36" alt="Premiere Pro" />
-  </a>
-  <a href="https://www.figma.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" />
-  </a>
-</p>
-
-### ⚛️ Frameworks & Markup
-
-<p align="left">
-  <a href="https://reactjs.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" />
-  </a>
-  <a href="https://nodejs.org/en/" target="_blank">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" />
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" />
-  </a>
-  <a href="https://www.w3.org/TR/CSS/#css" target="_blank">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" />
-  </a>
-</p>
-
-### 📝 Editors & Terminals
-
-<p align="left">
-  <a href="https://neovim.io/" target="_blank">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/neovim-colored.svg" width="36" height="36" alt="Neovim" />
-  </a>
-  <a href="https://www.vim.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vim.svg" width="36" height="36" alt="Vim" />
-  </a>
-</p>
-
-### 🗃️ Databases
-
-<p align="left">
-  <a href="https://www.mysql.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" />
-  </a>
-</p>
-
-### ☁️ Cloud & DevOps
-
-<p align="left">
-  <a href="https://cloud.google.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/googlecloud-colored.svg" width="36" height="36" alt="Google Cloud" />
-  </a>
-  <a href="https://www.docker.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" />
-  </a>
-</p>
-
-### 🕸️ Web3 / Blockchain
-
-<p align="left">
-  <a href="https://metamask.io/" target="_blank">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/metamask-colored.svg" width="36" height="36" alt="MetaMask" />
-  </a>
-  <a href="https://solana.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/solana-colored.svg" width="36" height="36" alt="Solana" />
-  </a>
-  <a href="https://ethereum.org/en/" target="_blank">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ethereum-colored.svg" width="36" height="36" alt="Ethereum" />
-  </a>
-  <a href="https://polygon.technology/" target="_blank">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/polygon-colored.svg" width="36" height="36" alt="Polygon" />
-  </a>
-</p>
-
-### 🖥️ Operating Systems
-
-<p align="left">
-  <a href="https://www.linux.org" target="_blank">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" />
-  </a>
-  <a href="https://www.apple.com/macos/" target="_blank">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/macos-colored.svg" width="36" height="36" alt="macOS" />
-  </a>
-</p>
-
-</details>
-
-
 
 ---
 
-### Socials
+## 🛠️ Tecnologias
+
+### 💻 Desenvolvimento
+<p align="center">
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" />
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" />
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" />
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" />
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" />
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" />
+</p>
+
+### 🎨 Design
+<p align="center">
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" />
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/illustrator-colored.svg" width="36" />
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" />
+</p>
+
+### ⚙️ Ferramentas & Ambiente
+<p align="center">
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" />
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/googlecloud-colored.svg" width="36" />
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" />
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" />
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" />
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/neovim-colored.svg" width="36" />
+</p>
+
+---
+
+## Socials
 
 <p align="left"> <a href="https://www.behance.com/luwiblu" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/behance-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/behance.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/behance.svg" width="32" height="32" alt="Behance" title="Behance" /> </picture> </a> <a href="https://www.github.com/IsraelRibeiro01" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="Github" title="Github" /> </picture> </a> <a href="https://www.linkedin.com/in/israelribeiro01" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn" /> </picture> </a></p>
 
 ---
 ### Stats
-
 <br />
-
 <details>
     <summary><b>📈 My GitHub Stats</b></summary>
 
