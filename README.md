@@ -9,8 +9,7 @@
 * 🧑‍💻 [Visual Artist](https://www.behance.net/luwiblu) and Dev
 * ❄️ [NixOS](https://nixos.org/) as daily driver OS
 * 🟦 [Arch Linux](https://archlinux.org/) For Proton/Gaming
-
-* 🎧 Audio fidelity nerd
+* 🎧 Hi-Fi audio enthusiast
 * 🖥️ Computer Networks
 * 🧑‍🎨 Certified Designer
 * 💽 **I love music!**
