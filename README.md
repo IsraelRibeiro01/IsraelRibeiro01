@@ -8,7 +8,7 @@
 * ❄️ [NixOS](https://github.com/IsraelRibeiro01/nix_os) User
 * 🟦 Arch Linux User
 * 🎧 Audio fidelity nerd
-* 🖥️ Studing Computer Networks
+* 🖥️ Computer Networks
 * 🧑‍🎨 Certified Designer
 * 💽 **I love music!**
 
@@ -16,7 +16,7 @@
 
 ![](https://github-readme-lastfm-stats.netlify.app/.netlify/functions/card?user=Celestial42&theme=dark&show_scrobbles=fa)
 
-* ### 🎵 My recent top 15 Albuns from LastFM with [this awesome project](https://github.com/melipass/lastfm-to-markdown/)
+* ### 🎵 My recent top 15 Albums from LastFM with [this awesome project](https://github.com/melipass/lastfm-to-markdown/)
 
 <br>
 
