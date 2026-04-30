@@ -1,12 +1,15 @@
 
 ---
 
-<img width="330" height="91" alt="logoisrael(1)" src="https://github.com/user-attachments/assets/5e22aaa0-211d-43f6-a08a-7a1dd7265c4b" />
+<img width="285" alt="Ribeiro23" src="https://github.com/user-attachments/assets/627a7058-6f18-4f61-88df-9fdf55ca6767" />
+
+
 
 * 🌎 Made in Brasil 🇧🇷
 * 🧑‍💻 [Visual Artist](https://www.behance.net/luwiblu) and Dev
-* ❄️ [NixOS](https://github.com/IsraelRibeiro01/nix_os) User
-* 🟦 Arch Linux User
+* ❄️ [NixOS](https://nixos.org/) as daily driver OS
+* 🟦 [Arch Linux](https://archlinux.org/) For Proton/Gaming
+
 * 🎧 Audio fidelity nerd
 * 🖥️ Computer Networks
 * 🧑‍🎨 Certified Designer
