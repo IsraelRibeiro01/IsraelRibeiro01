@@ -33,15 +33,13 @@
 
 <p align="center">
   <a href="https://github.com/Meon-Software/KNodeJS">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Meon-Software&repo=KNodeJS&theme=dark" />
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=Meon-Software&repo=KNodeJS&theme=dark" alt="KNodeJS" />
   </a>
-  <p align="center">
   <a href="https://github.com/IsraelRibeiro01/knodeFront">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=IsraelRibeiro01&repo=knodeFront&theme=dark" />
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=IsraelRibeiro01&repo=knodeFront&theme=dark" alt="knodeFront" />
   </a>
-  
   <a href="https://github.com/IsraelRibeiro01/nix_os">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=IsraelRibeiro01&repo=nix_os&theme=dark" />
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=IsraelRibeiro01&repo=nix_os&theme=dark" alt="nix_os" />
   </a>
 </p>
 
